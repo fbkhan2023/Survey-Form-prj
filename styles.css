@@ -185,6 +185,10 @@ textarea {
     .para {
         width: 550px;
     }
+}
 
-
+@media only screen and (max-width:600px) {
+    #survey-form {
+        width: 100vw;
+    }
 }
