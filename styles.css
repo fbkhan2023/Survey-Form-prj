@@ -8,7 +8,7 @@
 
 body {
 
-    background: linear-gradient(rgba(204, 0, 255, 0.3), rgba(0, 250, 146, 0.2)),
+    background: linear-gradient(rgba(255, 0, 191, 0.3), rgba(0, 250, 146, 0.2)),
         url(./image/bg-image.jpg);
     font-family: 'Poppins', sans-serif;
     background-repeat: no-repeat;
