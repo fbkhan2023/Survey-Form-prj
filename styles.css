@@ -45,10 +45,10 @@ header p {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 90vw;
+    width: 80vw;
     background-color: rgba(3, 66, 17, 0.4);
     border-radius: 10px;
-    padding: 30px;
+    padding: 20px;
     margin: auto;
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
@@ -63,7 +63,7 @@ label {
 .info {
     display: flex;
     justify-content: flex-start;
-    width: 470px;
+    width: 450px;
     height: 30px;
     border: 0;
     border-radius: 5px;
@@ -183,12 +183,13 @@ textarea {
     textarea,
     .role-option,
     .para {
-        width: 550px;
+        width: 500px;
     }
 }
 
 @media only screen and (max-width:600px) {
     #survey-form {
-        width: 100vw;
+        width: 90vw;
     }
+
 }
